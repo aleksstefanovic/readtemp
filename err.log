@@ -1,0 +1,10 @@
+DEPRECATION: Please use `require('serialport')` instead of `require('serialport').SerialPort`
+DEPRECATION: Please use `require('serialport')` instead of `require('serialport').SerialPort`
+DEPRECATION: Please use `require('serialport')` instead of `require('serialport').SerialPort`
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Opening COM3: File not found
+    at Error (native)
+DEPRECATION: Please use `require('serialport')` instead of `require('serialport').SerialPort`
