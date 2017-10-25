@@ -1,0 +1,1 @@
+Simple NodeJS app that reads current room temperature from an Arduino board (with temperature sensor) plugged in the computer. Sends the data to the "pandora" API (in the repo named "pandora") to allow the Pandora smart home android app to respond to requests for room temperature. 
